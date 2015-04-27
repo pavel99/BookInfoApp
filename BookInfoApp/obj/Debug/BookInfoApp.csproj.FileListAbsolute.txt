@@ -1,0 +1,9 @@
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe.config
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.exe
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\bin\Debug\BookInfoApp.pdb
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csprojResolveAssemblyReference.cache
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.BookInfoUI.resources
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.Properties.Resources.resources
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.csproj.GenerateResource.Cache
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.exe
+E:\SEIP Training\HomePractice\BookInfoApp\BookInfoApp\obj\Debug\BookInfoApp.pdb
